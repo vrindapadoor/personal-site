@@ -1,0 +1,105 @@
+.a{
+  border-radius: 50%;
+}
+.b{
+  margin-right: 30px;
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+}
+.c{
+  margin-left: 30px;
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color: #96bb7c;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    color: #40514E;
+}
+.cloud1{
+  padding-top: 50px;
+  position: relative;
+  left: 200px;
+}
+.cloud2{
+  position: absolute;
+}
+.mountain{
+  padding-top: 50px;
+  padding-bottom: 200px;
+}
+div{
+  background-color: #E4F9F5;
+}
+hr{
+  border: dotted lightblue 6px;
+  border-bottom: none;
+  width: 4%;
+  margin-top:  50px;
+  margin-bottom: 50px;
+}
+h1{
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin-top: 100px;
+  margin-bottom: 0;
+  font-family: Sacramento;
+}
+h2{
+  font-size: 2rem;
+  font-weight: normal;
+  margin-top: 0;
+  color: #66BFBF;
+}
+h3{
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.middle-container{
+  padding-bottom: 100px;
+}
+.bottom-container{
+  background-color: #24a19c;
+}
